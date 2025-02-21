@@ -1,5 +1,8 @@
 # About
-This is a course project
+This is a course project by Cyfrin Updraft
+
+## Extra
+Added Integration test
 
 # Getting Started
 
