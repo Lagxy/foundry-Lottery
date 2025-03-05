@@ -2,7 +2,9 @@
 This is a course project by Cyfrin Updraft
 
 ## Extra
-Added Integration test
+~ Added Integration test
+~ Modifying VRFCoordinatorV2_5Mock.sol required for Integration test
+~ Modifying DevOpsTools.sol import path
 
 # Getting Started
 
